@@ -1,0 +1,11 @@
+<!-- 
+    git -v    // Verificam versiunea
+    git init  // initializarea gitului 
+    git add . // adauga fisierele in repository // adaugam punct pentru a partaja toate fisierele
+    git status // verificam ce fisiere sunt trimise in repository
+    git commit -m "part 1 of website build" // Comitem trimiterea si adaugam commentariu/respectiv mesaj
+    git remote add origin (adresa de pe github) // in care repository vrem sa trimitem urmatoarea mapa
+    git push -u main // trimite repository
+
+
+-->
